@@ -1,10 +1,11 @@
 body {
   background-color: indianred;
 }
-main{
-	position: relative;
+.ba-main{
+	position: absolute;
 	width: 80vmin;
 	height: 80vmin;
+	margin: auto;
 
 }
 .ba-container{
